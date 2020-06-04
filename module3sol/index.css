@@ -1,0 +1,48 @@
+.navbar{
+    background-color:rgb(14, 10, 10);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 0px;
+}
+.navbar-nav a:hover {
+    background-color: rgb(228, 1, 1);
+   
+    text-decoration:black;
+    border-radius: 5px;
+  }
+
+  .navbar-brand{
+       text-transform: uppercase;
+      font-weight: bold;
+      font-size: 30px;
+      text-align: left;
+      margin-left: 0px;
+  }
+  .active{
+    background-color: rgb(228, 1, 1);
+    color: white;
+    border-radius: 5px;
+  }
+.jumbotron{
+    border-radius: 30px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.btn{
+    background-color: red;
+    size: 40px;
+    border: 0px;
+   color:white;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btn:hover{
+    background-color: orangered;
+    color: black;
+}
+.dropdown-menu{
+    background-color: rgb(14, 10, 10);   
+    border-radius: 10px;
+}
+.dropdown-item{
+    color: white;
+}
+
